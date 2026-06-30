@@ -35,21 +35,6 @@ systems easier to understand. My current work connects machine learning,
 biological data, and interpretable modeling, with a particular interest in
 plant science.
 
-## GitHub Overview
-
-<p align="center">
-  <img
-    height="155"
-    src="https://github-readme-stats.vercel.app/api?username=yuhong2024&show_icons=false&hide_border=true&theme=github_dark_dimmed&include_all_commits=true"
-    alt="Yuhong Wang's GitHub statistics"
-  />
-  <img
-    height="155"
-    src="https://streak-stats.demolab.com/?user=yuhong2024&theme=github-dark-blue&hide_border=true"
-    alt="Yuhong Wang's GitHub contribution streak"
-  />
-</p>
-
 ## Tech Stack
 
 **Languages**
