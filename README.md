@@ -1,73 +1,16 @@
-<h1 align="left">Hi, I'm Yuhong (Athan) Wang.</h1>
+# Hi, I'm Yuhong Wang（王玉宏）
 
-<p align="left">
-  PhD student working at the intersection of <strong>AI for Science</strong>,
-  <strong>biological interpretability</strong>, and
-  <strong>plant foundation models</strong>.
-</p>
+I am a Ph.D. student at Peking University, exploring applications of artificial
+intelligence in the life sciences.
 
-<p align="left">
-  <a href="https://github.com/yuhong2024">
-    <img src="https://img.shields.io/github/followers/yuhong2024?label=Followers&style=flat-square&color=0969da" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/yuhong2024?tab=repositories">
-    <img src="https://img.shields.io/github/stars/yuhong2024?affiliations=OWNER&style=flat-square&label=Total%20Stars&color=0969da" alt="Total GitHub stars" />
-  </a>
-  <a href="https://github.com/yuhong2024?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repositories-7-0969da?style=flat-square" alt="7 public repositories" />
-  </a>
-</p>
+我是北京大学在读博士生，主要探索人工智能在生命科学领域的应用。
 
 ---
 
-## About
+This is my current GitHub account. My previous account,
+[@yuhong2024](https://github.com/yuhong2024), contains my earlier projects and
+development history. I am gradually moving active work to this account.
 
-| | |
-|---|---|
-| **Current focus** | AI4S and biological interpretability for plant foundation models |
-| **Affiliation** | Peking University · AI × Biology |
-| **Background** | Southwest University · B.E. & B.S. |
-| **Based in** | Beijing, China |
-| **Website** | [wangyuhong.cn](https://wangyuhong.cn) |
-
-I am interested in building computational methods that make complex biological
-systems easier to understand. My current work connects machine learning,
-biological data, and interpretable modeling, with a particular interest in
-plant science.
-
-## Tech Stack
-
-**Languages**
-
-`Python` · `C` · `C++` · `R` · `Java` · `JavaScript` · `Shell`
-
-**Machine Learning & Data**
-
-`PyTorch` · `Machine Learning` · `Deep Learning` · `LLM` · `OpenCV` ·
-`YOLO` · `U-Net`
-
-**Research & Development**
-
-`Linux` · `Git` · `MATLAB` · `Anaconda` · `Flask` · `Django` · `Vue`
-
-## Selected Projects
-
-| Project | Description | |
-|---|---|---|
-| [**BrassicaEDB**](https://github.com/yuhong2024/BrassicaEDB) | A gene-expression database for Brassica crops, designed for interactive expression-profile exploration. | ★ 33 |
-| [**BrassicaPGF**](https://github.com/yuhong2024/BrassicaPGF) | An integrative platform for systematic analysis and visualization of pan-gene families across Brassica species. | ★ 8 |
-| [**Learn_AI**](https://github.com/yuhong2024/Learn_AI) | Notes and experiments covering the mathematics, algorithms, and engineering behind artificial intelligence. | Python |
-
-## Current Interests
-
-`Mathematics` · `Table Tennis` · `Running` · `Hiking` · `Reading` · `Chess`
-
-## Connect
-
-- GitHub: [@yuhongwa](https://github.com/yuhongwa)
-- Previous projects: [@yuhong2024](https://github.com/yuhong2024)
-- Website: [wangyuhong.cn](https://wangyuhong.cn)
-
-<p align="center">
-  <sub>Learning from data, staying close to biology.</sub>
-</p>
+这是我目前使用的 GitHub 账号。旧账号
+[@yuhong2024](https://github.com/yuhong2024)
+保留了我此前的项目与开发记录，后续活跃项目将逐步迁移至当前账号。
