@@ -1,1 +1,1 @@
-Hi, I’m Yuhong Wang, a Ph.D. student at Peking University working on AI for life sciences.This is my current GitHub account. My previous account, @yuhong2024, contains my earlier projects; active work is gradually moving here.
+Hi, I’m Yuhong Wang, a Ph.D. student at Peking University working on AI for life sciences.This is my current GitHub account. My previous account, [@yuhong2024](https://github.com/yuhong2024), contains my earlier projects; active work is gradually moving here.
